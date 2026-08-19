@@ -12,7 +12,9 @@ This repository contains my weekly project submissions and code for the **Logist
 * **Week 1: Strategic Planning & Data Exploration** 
   * *Focus:* Project definition, identifying KPIs (On-Time Delivery Rate, Average Delivery Time, Transportation Cost), and mapping out a Python-based strategic workflow.
   * *Deliverable:* `Week_1_Logistics_Strategic_Planning.docx`
-* **Week 2: Data Collection, Cleaning, and Preprocessing** *(Upcoming)*
+* **Week 2: Data Collection, Cleaning, and Preprocessing** 
+  * *Focus:* Handling missing values, IQR outlier detection, feature scaling, and categorical encoding to prepare the logistics dataset for machine learning models.
+  * *Deliverable:* `Week_2_Logistics_Data_Cleaning.docx`
 * **Week 3: Advanced Data Analysis and Visualization** *(Upcoming)*
 * **Week 4: Predictive Modeling and Optimization** *(Upcoming)*
 
@@ -23,3 +25,4 @@ This repository contains my weekly project submissions and code for the **Logist
 
 ## 📂 Repository Contents
 * `Week_1_Logistics_Strategic_Planning.docx` - Initial strategic roadmap and pseudo-code execution plan.
+* `Week_2_Logistics_Data_Cleaning.docx` - Data cleaning methodology and preprocessing pandas pipeline.
